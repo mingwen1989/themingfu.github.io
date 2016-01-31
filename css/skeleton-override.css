@@ -4,12 +4,12 @@ img {
   width: 100%;
 }
 
-.div .left {
+.div left {
   float: left;
   width: 50%;
 }
 
-.div .right {
+.div right {
   float: right;
   width: 50%;
 }
