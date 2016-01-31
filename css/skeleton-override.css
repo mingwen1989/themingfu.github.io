@@ -4,12 +4,14 @@ img {
   width: 100%;
 }
 
-.box.left {
-  float: left;
-  width: 50%;
-}
-
 .box.right {
   float: right;
-  width: 50%;
+  width: 30%;
+  margin-top: 50px;
+}
+
+.box.left {
+  float: left;
+  width: 60%;
+  margin-top: 50px;
 }
