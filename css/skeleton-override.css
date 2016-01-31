@@ -7,7 +7,9 @@ img {
 .box.right {
   float: right;
   width: 30%;
-  margin-top: 50px;
+  margin-top: 30px;
+  padding: 20px;
+  background: #DFF6FF;
 }
 
 .box.left {
