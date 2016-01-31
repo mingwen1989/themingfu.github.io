@@ -2,6 +2,7 @@ img {
   border-radius: 25px;
   margin-top: 25%;
   width: 100%;
+  border-radius: 75px;
 }
 
 .box.right {
@@ -11,6 +12,7 @@ img {
   padding: 20px;
   background: #DFF6FF url(../images/cream.jpg);
   box-shadow: 1px 0px 12px 1px #ccc;
+  border-radius: 5px;
 }
 
 .box.left {
