@@ -9,7 +9,7 @@ img {
   width: 30%;
   margin-top: 30px;
   padding: 20px;
-  background: #DFF6FF url(images/cream.jpg);
+  background: #DFF6FF url(../images/cream.jpg);
   box-shadow: 1px 0px 12px 1px #ccc;
 }
 
