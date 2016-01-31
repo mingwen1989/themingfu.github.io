@@ -1,5 +1,15 @@
-img {border-radius: 25px;margin-top:25%;width:100%;}
+img {
+  border-radius: 25px;
+  margin-top: 25%;
+  width: 100%;
+}
 
-.div .left {float:left}
+.div .left {
+  float: left;
+  width: 50%;
+}
 
-.div .right {float:right}
+.div .right {
+  float: right;
+  width: 50%;
+}
