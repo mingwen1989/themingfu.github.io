@@ -24,13 +24,14 @@ img {
 }
 
 
-media screen and (max-width: 550px) {
+@media screen and (max-width: 550px) {
   img {
     width: 30%;
-    float:left
+    float:left;
     }
   h2 {
     float: right;
     width: 60%;
-    margin-top: -110px;}
+    margin-top: -110px;
+  }
 }
