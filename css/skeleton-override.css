@@ -13,6 +13,7 @@ img {
   background: #51FFCE;
   box-shadow: 1px 0px 7px 1px #ccc;
   border-radius: 5px;
+  color: #6B0269;
 }
 
 .box.left {
@@ -41,6 +42,11 @@ img {
 
 p {
   font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
 }
 
 h4 {
